@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes and predicts household appliance energy consumption using machine learning and deep learning techniques. The dataset (`KAG_energydata_complete.csv-Candanedo, L. (2017). Appliances Energy Prediction [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5VC8G.`) contains time-series measurements of energy usage, indoor environmental factors, and timestamps. The goal is to understand consumption patterns and build predictive models to estimate appliance energy usage accurately.
+This project analyzes and predicts household appliance energy consumption using machine learning and deep learning techniques. The dataset (`KAG_energydata_complete.csv`) contains time-series measurements of energy usage, indoor environmental factors, and timestamps. The goal is to understand consumption patterns and build predictive models to estimate appliance energy usage accurately.
 
 ## Features & Preprocessing
 
